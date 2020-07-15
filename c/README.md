@@ -1,4 +1,4 @@
 '''console
-gcc main.c -o bin/main -lpthread
+gcc main.c -o bin/main -lpthread  
 ./bin/main
 '''

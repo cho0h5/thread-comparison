@@ -1,2 +1,6 @@
 # c
 bin/
+
+#rust
+Cargo.lock
+target/
